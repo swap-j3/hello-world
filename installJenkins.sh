@@ -9,3 +9,7 @@ service jenkins status
 service jenkins start
 
 echo "jenkins installed"
+
+echo "Adding extra comments"
+
+#Now i can try commit
