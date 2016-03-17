@@ -8,6 +8,8 @@ yum install jenkins
 service jenkins status
 service jenkins start
 
+chkconfig jenkins on
+
 echo "jenkins installed"
 
 echo "Adding extra comments"
